@@ -151,6 +151,15 @@ We welcome contributions! 🚀 Feel free to fork this repo, create a new branch,
 
 ---
 
+![Screenshot (28)](https://github.com/user-attachments/assets/03402bc8-cae5-45c5-a1bd-588a631f49f6)
+![Screenshot (27)](https://github.com/user-attachments/assets/aacdb2f2-8af3-42ef-8bdd-c27d10eb129a)
+![Screenshot (26)](https://github.com/user-attachments/assets/6db8c07f-d271-4731-a36a-107d3adaeeac)
+![Screenshot (22)](https://github.com/user-attachments/assets/18199d4e-4f90-42e6-aece-26271289b4d9)
+![Screenshot (21)](https://github.com/user-attachments/assets/92fd4861-5fe2-411d-b70a-35af50f67b47)
+![Screenshot (1)](https://github.com/user-attachments/assets/7ce6d0f6-fe10-41dc-b38e-517a3d1556d2)
+![Screenshot (22)](https://github.com/user-attachments/assets/63711885-6b42-4241-b486-a575f15e9d3f)
+
+
 ## ⭐ Show Some Love!
 If you found this project helpful, don't forget to give it a **star** ⭐ on GitHub!
 
