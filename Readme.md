@@ -59,7 +59,7 @@ Welcome to **Socio Hub**, a feature-rich social media platform built using the *
 ## 🔧 Installation & Setup
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/your-username/socio-hub.git
+git clone https://github.com/madhavsolanki/Socio-Hub.git
 cd socio-hub
 ```
 
